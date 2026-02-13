@@ -1,5 +1,6 @@
 payload:
-  - '*grindr*'
+  - '+.grindr.mobi'
+  - '+.grindr.com'
   - '+.irisdt.com'
   - '+.irisgw.com'
   - '+.blued.com'
