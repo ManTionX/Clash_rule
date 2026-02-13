@@ -1,4 +1,5 @@
 payload:
+  - '*grindr*'
   - '+.irisdt.com'
   - '+.irisgw.com'
   - '+.blued.com'
